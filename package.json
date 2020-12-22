@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "concat-stream": "^2.0.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "querystream": "^0.0.2",
+    "querystring": "^0.2.0"
+  },
+  "scripts":{
+    "start": "node server2.js"
+  }
+}
